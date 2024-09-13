@@ -2,7 +2,7 @@ With all the hubbub about OpenAI's o1 and the strawberry thing I thought I'd try
 
 I had the output from my test rewritten into markdown by Claude.  Please put an issue in if you find a version of the phrase that doesn't work.
 
-Also, how hard did I work on this? Uh not. I told Claude what I wanted and he wrote the prompts for me, I haven't even read them.  I did add the step by step part on the first step myself.
+Also, how hard did I work on this? Uh not. I told Claude what I wanted and he wrote the prompts for me, I haven't even read them.
 
 # Enter your question for Claude: How many letter r are in the word strawberry?
 
